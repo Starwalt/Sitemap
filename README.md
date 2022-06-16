@@ -1,2 +1,2517 @@
-# Sitemap
-sitemap xml
+```
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/sandysanthosh</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mobile</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/actions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/codespaces</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/packages</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/security</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/code-review</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/integrations</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sponsors</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/team</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/explore</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/topics</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/collections</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/trending</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sponsors/explore</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/readme</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/events</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pricing</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/enterprise/contact</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/github-community/community/discussions/categories/profile</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/sandysanthosh</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/coding-interview-university</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/SPRING-BOOT-MICROSERVICES</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/API-Development-Tool</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Online-Tools-for-web-developers</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Starwalt/starwalt.github.io</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aarudrastudios/Aarudrastudios.github.io</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Naruvi-Hospital/Demo</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Spring-Boot-Security</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Consume-Soap-Webservices-using-WebServiceTemplate</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Spring-Boot-Mockito</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/CORS</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Spring-Boot-React-JS</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Spring-Boot-WAR</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Starwalt/Html-Google-Form</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Starwalt/Teach-think-skills-to-your-child</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Google-sheet-HTML-Form</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Spring-Boot-Https</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sandysanthosh/Spring-Boot-Security/pull/1</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/security</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/about</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/login</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/signup</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Faccount%2Forganizations%2Fnew</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace?type=actions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/tensorflow/tensorflow</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gatsbyjs/gatsby</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/home-assistant/core</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/rust-lang/rust</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/flutter/flutter</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/kubernetes/kubernetes</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/apple/swift</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ansible/ansible</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/terraform</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ohmyzsh/ohmyzsh</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/facebook/react</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/npm/cli</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/github/roadmap</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/about/careers</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/about/press</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/about/diversity</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/github</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/site-map</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/git-guides</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/launchdarkly/find-code-references</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Azure/actions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/aws-actions/amazon-ecr-login</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Azure/k8s-actions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/codeclimate/velocity-deploy-action</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/coverallsapp/github-action</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Axosoft/glo-actions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mablhq/github-run-tests-action</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/stale</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/labeler</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/google-github-actions/setup-gcloud</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/codecov/codecov-action</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/organizations/enterprise_plan</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/skills/publish-packages</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/features/security/code</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/features/security/software-supply-chain</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/advisories/GHSA-763g-fqq7-48wg</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/advisories/GHSA-h466-j336-74wx</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/github/codeql/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/codecov</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/codacy</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/coveralls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/codefactor</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/orgs/github/projects/4247</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/github-community/community/discussions/categories/issues-feedback</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsponsors%2Faccounts</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mfix22</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thejonanshow</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/curl</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sponsors/curl</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/openssl</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sponsors/openssl</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/swannodette</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/telus</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dxc</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/trustpilot</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/the-hartford</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=all&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=americas&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=apac&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=emea&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=all&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=software-technology&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=retail-ecommerce&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=travel-hospitality&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=media-entertainment&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=manufacturing&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=operations-logistics&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=automotive&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=financial-services&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=healthcare&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=marketing-communications&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=communications&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=energy-utilities&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=government&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=education&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=all</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=developers</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=enterprise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=team</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/3m</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/adeo</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/adobe</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/ahold-delhaize</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/american-airlines</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/anaplan</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/arduino</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/autodesk</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/bcg-gamma</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/blue-yonder</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/bolt</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/braintree</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/brother-industries</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/buzzfeed</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/capillarytech</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/caregility</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cdt</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/ch-robinson</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cognizant</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/coinbase</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/continental</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/covermymeds</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cresta</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cruise-automation</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cyberagent</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/datadog</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dazn</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/decathlon</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/deliveroo</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/delivery-hero</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dell</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/deutsche-boerse-group</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dlr</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dominion</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dow-jones</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/emirates-nbd</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/engie</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/enova</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/etsy</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/facebook</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/ford</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/front</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/fullstory</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/globant</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/groupon</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/hashicorp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/homedepot</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/hootsuite</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/howest</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/hubspot</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/infosys</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/infotrack</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/jibo</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/jpl</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/kakao</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/knock</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/lambdatest</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/leapmotion</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/linkedin</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mailchimp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mapbox</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mckesson</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/media-assembly</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mercari</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mgm-resorts</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/microsoft</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/modsy</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/nationwide</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/netdata</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/nubank</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/nutanix</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/nytimes</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/omise</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/otto-group</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/peak-money</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/pg</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/pinterest</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/plaid</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/postmates</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/qualcomm</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/queens-university</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/rea-group</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/sap</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/seagate</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/shell</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/shopify</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/skyscanner</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/societe-generale</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/spotify</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/stripe</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/synergy</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/technological-institute-tlaxiaco</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/tokopedia</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/trainline</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/trayio</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/twilio</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/uminn</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/va</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/viacomcbs-streaming</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/viavarejo</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/wayfair</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/wealthsimple</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/white-label-international-retailer</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/wiley</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/xing</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/zalando</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/zendesk</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/zibasec</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/jira-software-github</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/actions/checkout</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/actions/setup-node-js-environment</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/actions/npm-publish</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?type=team</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/premium-support</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/explore/email</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lxgr-linux/pokete</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lxgr-linux</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lxgr-linux/pokete/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lxgr-linux/pokete/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lxgr-linux/pokete/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/game</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/python</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/linux</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/pokemon</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/terminal</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/console-game</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/terminal-game</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CeresDB</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CeresDB/ceresdb</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CeresDB/ceresdb/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CeresDB/ceresdb/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CeresDB/ceresdb/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/rust</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/database</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/distributed-database</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/tsdb</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/xamarin</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sheepla/pingu</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sheepla</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sheepla/pingu/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sheepla/pingu/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/go</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/cli</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ping</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/icmp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/joke</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/penguin</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/pingu</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/go-cli</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/geekan</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/geekan/HowToLiveLonger</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/geekan/HowToLiveLonger/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/geekan/HowToLiveLonger/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/geekan/HowToLiveLonger/issues/1</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TheAlgorithms</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TheAlgorithms/Python</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TheAlgorithms/Python/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TheAlgorithms/Python/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TheAlgorithms/Python/issues/5434</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TheAlgorithms/Python/blob/master/data_structures/hashing/number_theory/prime_numbers.py</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/zhiqi-li</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/zhiqi-li/BEVFormer</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/zhiqi-li/BEVFormer/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/zhiqi-li/BEVFormer/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/computer-vision</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/deep-learning</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/object-detection</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/autonomous-driving</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/pixel-art-tools</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/layer-ci</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/freeCodeCamp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/freeCodeCamp/freeCodeCamp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/freeCodeCamp/freeCodeCamp/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/freeCodeCamp/freeCodeCamp/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/react</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/nodejs</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/javascript</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/d3</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/teachers</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/community</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/education</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/programming</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/curriculum</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/math</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/freecodecamp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/learn-to-code</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/nonprofits</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/careers</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/certification</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/hacktoberfest</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/n3r4zzurr0</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/n3r4zzurr0/svg-spinners</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/n3r4zzurr0/svg-spinners/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/n3r4zzurr0/svg-spinners/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/still-scene</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/still-scene/t3</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/still-scene/t3/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/still-scene/t3/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/raft</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/raft/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/raft/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ionic-team/ionic-framework</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ionic-team</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ionic-team/ionic-framework/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ionic-team/ionic-framework/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ionic-team/ionic-framework/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ios</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/angular</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/mobile</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/framework</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/typescript</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/web</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ionic</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/pwa</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/vue</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/material-design</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/webcomponents</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/frontend</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/stencil</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/capacitor</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/stenciljs</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/4ra1n</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/4ra1n/tomcat-jmxproxy-rce-exp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/4ra1n/tomcat-jmxproxy-rce-exp/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/tomcat</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/rce</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/vulnerability</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lucacasonato</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lucacasonato/fresh</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lucacasonato/fresh/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lucacasonato/fresh/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lucacasonato/fresh/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/winsiderss/systeminformer</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/winsiderss</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/winsiderss/systeminformer/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/winsiderss/systeminformer/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/winsiderss/systeminformer/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/c</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/windows</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/debugger</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/security</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/benchmarking</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/process-manager</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/performance</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/monitor</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/monitoring</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/realtime</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/administrator</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/process-monitor</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/performance-tuning</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/profiling</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/monitor-performance</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/performance-monitoring</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/system-monitor</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/processhacker</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/systeminformer</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/system-informer</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/prettier/prettier</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/prettier</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/prettier/prettier/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/prettier/prettier/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/prettier/prettier/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/css</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/html</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/graphql</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/markdown</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/flow</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/yaml</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/less</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/json</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/formatter</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/printer</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/jsx</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/scss</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/prettier</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ast</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/dotnetcore</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/dotnetcore/FastGithub</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/dotnetcore/FastGithub/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/dotnetcore/FastGithub/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/github</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/reverseproxy</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/github-dns</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/gitub-ip</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AzureAD</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AzureAD/microsoft-authentication-library-for-js</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AzureAD/microsoft-authentication-library-for-js/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AzureAD/microsoft-authentication-library-for-js/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AzureAD/microsoft-authentication-library-for-js/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yanfeizhang</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yanfeizhang/coder-kung-fu</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yanfeizhang/coder-kung-fu/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yanfeizhang/coder-kung-fu/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/spring-projects</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/spring-projects/spring-framework</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/spring-projects/spring-framework/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/spring-projects/spring-framework/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/spring</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/spring-framework</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/knadh</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/knadh/dns.toys</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/knadh/dns.toys/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/knadh/dns.toys/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/dns</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/weather</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/fun</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/unit-conversion</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/dns-server</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/issues/5302</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/issues/5022</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/issues/4961</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/thanos-io/thanos/contribute</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/go-plugin</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/go-plugin/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hashicorp/go-plugin/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/virtual-environments</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/virtual-environments/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/virtual-environments/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/virtual-environments/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/callstack</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/callstack/react-native-paper</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/callstack/react-native-paper/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/callstack/react-native-paper/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/callstack/react-native-paper/discussions</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/react-native</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ui-kit</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js/issues</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js/pulls</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js/issues/11824</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js/issues/11725</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js/issues/11337</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mapbox/mapbox-gl-js/contribute</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/meercode-ci-monitoring</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/developers</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/klauspost</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/klauspost/compress</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emilk</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emilk/egui</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/humitos</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/inancgumus</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/inancgumus/learngo</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/jquery</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/symfony</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/sketch</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/3d</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ajax</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/algorithm</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/amphp</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/android</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ansible</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/api</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/arduino</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/aspnet</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/atom</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/awesome</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/aws</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/azure</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/babel</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/bash</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/bitcoin</loc>
+  <lastmod>2022-06-16T09:53:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
+
+```
